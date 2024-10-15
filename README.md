@@ -1,2 +1,2 @@
 # Documents-All-Pairs-Similarity
-This problem involves calculating the pairwise similarity between all documents in a corpus. I have done this using the similarity measure, Cosine similarity. I have demonstrated the sequential and parallel implementation of this problem using Cosine similarity in this implementation.
+This project addresses a classic big data problem: calculating pairwise similarity between all documents in a large corpus. I have solved this problem using the similarity measure, Cosine similarity. I have demonstrated the sequential and parallel implementations to demonstrate the efficiency and scalability of the approach. The parallel implementation leverages distributed computing techniques to handle large datasets efficiently.
